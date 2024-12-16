@@ -17,9 +17,9 @@ const bankAccount = {
   },
 };
 
-// console.log(bankAccount.adDepost());
+console.log(bankAccount.adDepost());
 
-// console.log(bankAccount.withdraw());
+console.log(bankAccount.withdraw());
 
 const weather = {
   temperature: 0,
@@ -37,7 +37,7 @@ const weather = {
   },
 };
 
-// console.log(weather.measurementTemperature());
+console.log(weather.measurementTemperature());
 
 const user = {
   name: "",
@@ -56,7 +56,7 @@ const user = {
   },
 };
 
-// console.log(user.login());
+console.log(user.login());
 
 const movie = {
   title: "",
